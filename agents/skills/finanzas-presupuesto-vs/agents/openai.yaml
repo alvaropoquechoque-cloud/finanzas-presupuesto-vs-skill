@@ -1,0 +1,8 @@
+interface:
+  display_name: "Finanzas Sommos — Presupuesto y VS"
+  short_description: "Gestiona Budget vs Real P&L, ejecución presupuestaria y análisis de variaciones de Sommos."
+  brand_color: "#4D0B95"
+  default_prompt: "Usa $finanzas-presupuesto-vs para revisar o actualizar Presupuesto, comparar Budget contra Real P&L, validar porcentajes y variaciones, y explicar desviaciones sin confundir presupuesto, devengo, forecast y cash."
+
+policy:
+  allow_implicit_invocation: true
